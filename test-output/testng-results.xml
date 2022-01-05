@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40731" started-at="2021-12-14T06:30:29Z" finished-at="2021-12-14T06:31:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16510" started-at="2021-12-14T06:30:29Z" finished-at="2021-12-14T06:30:45Z">
+      <class name="com.pro.TestNGxml">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String)[pri:0, instance:com.pro.TestNGxml@72d818d1]" name="launchbrowser" duration-ms="16463" started-at="2021-12-14T06:30:29Z" finished-at="2021-12-14T06:30:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+      </class> <!-- com.pro.TestNGxml -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="11530" started-at="2021-12-14T06:30:45Z" finished-at="2021-12-14T06:30:57Z">
+      <class name="com.pro.TestNGxml">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String)[pri:0, instance:com.pro.TestNGxml@a67c67e]" name="launchbrowser" duration-ms="11520" started-at="2021-12-14T06:30:45Z" finished-at="2021-12-14T06:30:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+      </class> <!-- com.pro.TestNGxml -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="12633" started-at="2021-12-14T06:30:57Z" finished-at="2021-12-14T06:31:09Z">
+      <class name="com.pro.TestNGxml">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String)[pri:0, instance:com.pro.TestNGxml@5ec0a365]" name="launchbrowser" duration-ms="12629" started-at="2021-12-14T06:30:57Z" finished-at="2021-12-14T06:31:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+      </class> <!-- com.pro.TestNGxml -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
